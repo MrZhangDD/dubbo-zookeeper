@@ -112,8 +112,6 @@
             <module>dubbo_api</module>
             <module>dubbo_consumer</module>
             <module>dubbo_provider</module>
-            <module>dubbo_provider</module>
-            <module>dubbo_consumer</module>
         </modules>
 </project>
 
